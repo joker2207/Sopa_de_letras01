@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sopa_de_letras01/static/css/main.8e686a4a.css",
+    "main.js": "/Sopa_de_letras01/static/js/main.62cfdf2c.js",
+    "static/js/453.de988efa.chunk.js": "/Sopa_de_letras01/static/js/453.de988efa.chunk.js",
+    "index.html": "/Sopa_de_letras01/index.html",
+    "main.8e686a4a.css.map": "/Sopa_de_letras01/static/css/main.8e686a4a.css.map",
+    "main.62cfdf2c.js.map": "/Sopa_de_letras01/static/js/main.62cfdf2c.js.map",
+    "453.de988efa.chunk.js.map": "/Sopa_de_letras01/static/js/453.de988efa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e686a4a.css",
+    "static/js/main.62cfdf2c.js"
+  ]
+}
