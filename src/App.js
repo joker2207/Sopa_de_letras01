@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
 import WordSearchGenerator from './components/WordSearchGenerator';
+import ErrorBoundary from './ErrorBoundary';
 
 function App() {
   return (
     <div className="App">
-      <WordSearchGenerator />
+      <ErrorBoundary>
+        <WordSearchGenerator />
+      </ErrorBoundary>
     </div>
   );
 }
